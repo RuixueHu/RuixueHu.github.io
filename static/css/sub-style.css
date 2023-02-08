@@ -1,0 +1,13 @@
+h1, h2, h3, h4, h5, h6 { font-weight: 500; }
+
+.zscustom-section-portfolio-light-01 .zspadding-box { padding: 35px; border-radius: 10px; }
+
+.zsmap-in-color { filter: grayscale(1); }
+
+.theme-footer-area { background: #FFFFFF; }
+.theme-footer-area.zpdark-section { color: #30323B; }
+.theme-footer-area h1, .theme-footer-area h2, .theme-footer-area h3, .theme-footer-area h4, .theme-footer-area h5, .theme-footer-area h6 { color: #111111; }
+
+@media only screen and (max-width: 768px) { .zpbackground-position-center-center { background-position: 40% 0; }
+  .zphero .zprow [class*='zpcol-'] { padding-left: 30%; } }
+@media only screen and (min-width: 992px) { .zptabelem-inner-container.zptabs-style-01.zptab-type-03 .zptab { padding: 10px 30px; } }
